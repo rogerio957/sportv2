@@ -1,0 +1,324 @@
+
+
+#EXTM3U
+
+#EXTINF:-1,PT: SPORT TV 1
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1483
+#EXTINF:-1,PT: SPORT TV 2
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1486
+#EXTINF:-1,PT: SPORT TV 3
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1489
+#EXTINF:-1,PT: SPORT TV 4
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1492
+#EXTINF:-1,PT: SPORT TV 5
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/1495
+#EXTINF:-1,PT: SPORT TV 6
+http://kuchini.site:8080/resplice/BiD8iEiMv7js1OUL/281487
+#EXTINF:-1,||PT|| SPORT TV 1  LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36979
+#EXTINF:-1,||pt|| SPORT TV 2 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36980
+#EXTINF:-1,||pt|| SPORT TV 3 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36981
+#EXTINF:-1,||pt|| SPORT TV 4 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36982
+#EXTINF:-1,||pt|| SPORT TV 5 LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36983
+#EXTINF:-1,||PT|| SPORT TV 1 4k
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37016
+#EXTINF:-1,||pt|| SPORT TV 2  4K
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/37017
+#EXTINF:-1,PT1: SPORT TV 1
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78513
+#EXTINF:-1,PT1: SPORT TV 1 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78414
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77923
+#EXTINF:-1,PT1: SPORT TV 2
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78514
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77926
+#EXTINF:-1,PT1: SPORT TV 2 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78415
+#EXTINF:-1,PT1: SPORT TV 3
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78515
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77931
+#EXTINF:-1,PT1: SPORT TV 3 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78416
+#EXTINF:-1,PT1: SPORT TV 4
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78516
+#EXTINF:-1,PT1: SPORT TV 4 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78418
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77935
+#EXTINF:-1,PT1: SPORT TV 5
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78517
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77937
+#EXTINF:-1,PT1: SPORT TV 5 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78419
+#EXTINF:-1,PT1: SPORT TV 6 FHD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78504
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/77940
+
+#EXTINF:-1,PT | SPORT TV 1ⓧ 4K HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74187
+#EXTINF:-1,PT | SPORT TV 1ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9879
+#EXTINF:-1,PT | SPORT TV 1ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9526
+#EXTINF:-1,PT | SPORT TV 1ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74083
+#EXTINF:-1,PT | SPORT TV 1ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9525
+#EXTINF:-1,PT | SPORT TV 1ⓧ UHD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74113
+#EXTINF:-1,PT | SPORT TV 2ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9529
+#EXTINF:-1,PT | SPORT TV 2ⓧ FHD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74168
+#EXTINF:-1,PT | SPORT TV 2ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9528
+#EXTINF:-1,PT | SPORT TV 2ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74116
+#EXTINF:-1,PT | SPORT TV 2ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9527
+#EXTINF:-1,PT | SPORT TV 3ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9532
+#EXTINF:-1,PT | SPORT TV 3ⓧ FHD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74103
+#EXTINF:-1,PT | SPORT TV 3ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9531
+#EXTINF:-1,PT | SPORT TV 3ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74104
+#EXTINF:-1,PT | SPORT TV 3ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9530
+#EXTINF:-1,PT | SPORT TV 4ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9535
+#EXTINF:-1,PT | SPORT TV 4ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9534
+#EXTINF:-1,PT | SPORT TV 4ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/12690
+#EXTINF:-1,PT | SPORT TV 4ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9533
+#EXTINF:-1,PT | SPORT TV 5ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9538
+#EXTINF:-1,PT | SPORT TV 5ⓧ Full HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74094
+#EXTINF:-1,PT | SPORT TV 5ⓧ HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9537
+#EXTINF:-1,PT | SPORT TV 5ⓧ HD HEVC
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74105
+#EXTINF:-1,PT | SPORT TV 5ⓧ SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/9536
+#EXTINF:-1,PT | SPORT TV 6ⓧ FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/108253
+
+
+
+
+
+https://raw.githubusercontent.com/rogerio957/sportt/de75cfd665ceb797d501411d9c988d07be750c4f/sportv.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
